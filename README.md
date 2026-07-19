@@ -10,9 +10,3 @@ Copy `pet.json` and `spritesheet.webp` together into:
 ~/.codex/pets/jiayao/
 ```
 
-
-## Files
-
-- `pet.json` — pet metadata
-- `spritesheet.webp` — transparent animated sprite atlas
-- `assets/preview.png` — animation contact sheet
